@@ -16,20 +16,10 @@ Email: '21wks1@queensu.ca'<br>
  Email: '21bf14@queensu.ca'<br>
 
 # Description
-
 This project was built for a 6 hour hackathon and awarded second place in the Queen's University Engineering Competition for Programming.
-
 Sync is a mobile app that provides you with a personalized a multi-media library for all of your media needs, like books, podcasts, music, tv series and more, based on your book preferences. 
 
-
-# Licenses
-
-Queen's Engineering Competi
- 
-
-
 # Setup Details:
-
 Based on team-member expertise, the front-ended was programmed in Swift, and the backend algorithm in C. The two were integrated using file exports in JSON format.
 
 # Feedback
