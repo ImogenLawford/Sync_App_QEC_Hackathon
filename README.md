@@ -15,3 +15,6 @@ Imogen Lawford-Wickham
  
  Boyan Fan
  ## 21bf14@queensu.ca
+ 
+<img width="538" alt="Screen Shot 2023-01-22 at 11 34 15 AM" src="https://user-images.githubusercontent.com/88449491/213927391-679c169d-adcc-4911-95aa-237d1de80858.png">
+
