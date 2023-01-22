@@ -7,14 +7,15 @@ This project was awarded second place in the Queen's University Engineering Comp
 
 # Contributions
 
-Imogen Lawford-Wickham
- ## imogen.lawford7@gmail.com
+Author: Imogen Lawford-Wickham  <br>
+Email: 'imogen.lawford7@gmail.com'<br>
  
- Will Steedman
- ## 21wks1@queensu.ca
+Author: Will Steedman <br>
+Email: '21wks1@queensu.ca'<br>
  
- Boyan Fan
- ## 21bf14@queensu.ca
+ Author: Boyan Fan
+ Email: '21bf14@queensu.ca'<br>
+
  
 <img width="538" alt="Screen Shot 2023-01-22 at 11 34 15 AM" src="https://user-images.githubusercontent.com/88449491/213927391-679c169d-adcc-4911-95aa-237d1de80858.png">
 
