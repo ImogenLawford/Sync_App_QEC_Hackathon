@@ -16,6 +16,9 @@ Email: '21wks1@queensu.ca'<br>
  Author: Boyan Fan
  Email: '21bf14@queensu.ca'<br>
 
+# Licenses
+
+Queen's Engineering Competi
  
 <img width="538" alt="Screen Shot 2023-01-22 at 11 34 15 AM" src="https://user-images.githubusercontent.com/88449491/213927391-679c169d-adcc-4911-95aa-237d1de80858.png">
 
